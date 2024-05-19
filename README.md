@@ -41,13 +41,9 @@ Welcome to Space Invaders! This Python-based game combines the classic arcade ga
    - Engage in battles with other spacecraft by avoiding their attacks and firing back.
 
 ## Credits
-- This game was developed by [Your Name] as a project for [Course/Event Name].
-- Special thanks to [Contributor Names] for their valuable contributions.
-
-## License
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
+- This game was developed by Arnav Khanna as a project for Myself.
 
 ## Feedback
-We welcome your feedback and suggestions to improve this game. Feel free to submit issues or pull requests.
+I welcome your feedback and suggestions to improve this game. Feel free to submit issues or pull requests.
 
 Enjoy the game and defend your planet from the alien invasion!
